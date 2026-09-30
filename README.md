@@ -73,6 +73,7 @@ If you use the RECUR Corpus in scientific work, please cite:
   year    = {[YEAR]},
   doi     = {[DOI]}
 }
+```
 
 ## Data Usage Agreement
 
