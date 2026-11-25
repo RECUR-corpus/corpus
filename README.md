@@ -60,18 +60,18 @@ Hugstetter Straße 55
 
 If you use the RECUR Corpus in scientific work, please cite:
 
-> **Raphael Schmitt, Maximilian Glienke, Maximilian Ferry von Bargen, Lidija Kijic, Tabea Walther, Luise Modersohn, and Martin Schoenthaler.**  
-> **The RECUR Corpus: Annotated German Radiology Reports for Urolithiasis Research.**  
-> *[Journal]*, [Year].  
-> DOI: [DOI]
+> Raphael Schmitt, Maximilian Glienke, Maximilian Ferry von Bargen, Lidija Ujkic, Tabea Walther, Luise Modersohn, and Martin Schoenthaler.
+> The RECUR corpus: annotated German radiology reports for urolithiasis research.
+> BMC Medical Informatics and Decision Making, 2026.
+> DOI: 10.1186/s12911-026-03982-4
 
 ```bibtex
-@article{schmitt_recur,
-  title   = {The RECUR Corpus: Annotated German Radiology Reports for Urolithiasis Research},
-  author  = {Schmitt, Raphael and Glienke, Maximilian and Ferry von Bargen, Maximilian and Kijic, Lidija and Walther, Tabea and Modersohn, Luise and Schoenthaler, Martin},
-  journal = {[JOURNAL]},
-  year    = {[YEAR]},
-  doi     = {[DOI]}
+@article{schmitt2026recur,
+  title   = {The {RECUR} Corpus: Annotated German Radiology Reports for Urolithiasis Research},
+  author  = {Schmitt, Raphael and Glienke, Maximilian and von Bargen, Maximilian Ferry and Ujkic, Lidija and Walther, Tabea and Modersohn, Luise and Schoenthaler, Martin},
+  journal = {BMC Medical Informatics and Decision Making},
+  year    = {2026},
+  doi     = {10.1186/s12911-026-03982-4}
 }
 ```
 
